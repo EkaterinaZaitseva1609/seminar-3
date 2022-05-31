@@ -7,3 +7,4 @@
 ## Добавили текст через браузер. Add text local.
 
 ## Добавили текст через браузер online (для создания конфликта)
+*gNew text in new branch - readmeEdit*
